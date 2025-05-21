@@ -78,10 +78,9 @@ int main(int argc, char *argv[]) {
 
 ## OUTPUT:
 
-![Alt text](../img/1.png)
+![Alt text](img/1.png)
 
-![Alt text](../img/2.png)
-
+![Alt text](img/2.png)
 
 ## 2.To Write a C program that illustrates files locking
 
@@ -158,9 +157,10 @@ int main(int argc, char *argv[]) {
 
 ## OUTPUT
 
-![Alt text](../img/3.png)
+![Alt text](img/3.png)
 
-![Alt text](../img/4.png)
+![Alt text](img/4.png)
+
 
 # RESULT:
 The programs are executed successfully.
